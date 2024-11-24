@@ -3,10 +3,6 @@
 ![preview](./screenshot.png)
 ![preview-2](./screenshot-light.png)
 
-## Important note
-
-I switched to KDE, this repo no longer maintained. Archived, but not permanent.
-
 ---
 
 ## Why you should use this instead of other Gruvbox themes
@@ -14,3 +10,7 @@ I switched to KDE, this repo no longer maintained. Archived, but not permanent.
 - It's newer
 - It's relevant
 - It will be constantly updated (at least while I'm using Gruvbox theme)
+
+## How to install
+
+t.me/gruvbox_telegram
